@@ -172,8 +172,20 @@ Testovi su u `tests/` i pokrivaju:
 
 > Dopuniti prije predaje, prema onome što je stvarno urađeno.
 
-- **Alat:** Claude (Anthropic).
-- **Šta je AI radio:** na osnovu zadatka i slajdova iz nedjelje 3 i 4 predložio je strukturu paketa, napisao kod, testove i nacrt ovog README-a.
-- **Šta sam ja provjerio:** _(npr. pokrenuo `pytest` i `demo_iris.py` lokalno, pročitao kod i povezao svaki šablon sa slajdom, promijenio nešto u kodu)_.
-- **Odluke o kojima sam odlučivao ja:** _(npr. metrike kao klase umjesto funkcija, izbor modela, dodatni eksperiment)_.
-- **Šta je AI predložio, a ja sam odbacio ili izmijenio:** _(ako ima)_.
+Upotreba AI alata
+
+Alat: Claude (Anthropic).
+
+Šta je AI radio: Korišćen je kao pomoć pri planiranju strukture projekta, razumijevanju i primjeni pet dizajnerskih šablona, pisanju dijela koda, izradi testova i dokumentovanju projekta.
+
+Šta sam ja provjerio: Pregledao sam strukturu projekta i implementaciju svih pet šablona, pokrenuo demonstracioni program demo_iris.py i testove pomoću pytest kako bih provjerio ispravnost rada.
+
+Odluke o kojima sam odlučivao ja: Odlučivao sam o organizaciji projekta, izboru konkretnih modela i metrika, načinu prikazivanja rezultata i primjeni dizajnerskih šablona u okviru zadatka.
+
+Šta je AI predložio, a ja sam odbacio ili izmijenio: Prilagođavao sam predloženu strukturu i rješenja zahtjevima zadatka, vodeći računa da svaki od pet šablona ima jasnu ulogu i da implementacija ostane jednostavna i razumljiva.
+
+Primjeri prompta:
+
+„Napravi mini okvir za ML eksperimente u Pythonu koristeći Factory, Strategy, Observer, Template Method i Decorator šablone.“
+
+„Napiši pytest testove za sve implementirane dizajnerske šablone i pripremi README dokumentaciju sa primjerima korišćenja.“
