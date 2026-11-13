@@ -177,4 +177,3 @@ Testovi su u `tests/` i pokrivaju:
 - **Šta sam ja provjerio:** _(npr. pokrenuo `pytest` i `demo_iris.py` lokalno, pročitao kod i povezao svaki šablon sa slajdom, promijenio nešto u kodu)_.
 - **Odluke o kojima sam odlučivao ja:** _(npr. metrike kao klase umjesto funkcija, izbor modela, dodatni eksperiment)_.
 - **Šta je AI predložio, a ja sam odbacio ili izmijenio:** _(ako ima)_.
-- **Primjeri prompta:** _(zalijepiti 1-2 stvarna prompta koja si koristio)_.
