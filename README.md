@@ -55,7 +55,7 @@ def test_prazna_lista_baca_gresku():
 ## Upotrijebljeni upit
 
 > Napiši Python 3.12 funkciju `prosjecna_ocjena(ocjene)` koja prima listu
-> ocjena i vraća prosjek. Dodaj type hintove i docstring na srpskom/crnogorskom.
+> ocjena i vraća prosjek. Dodaj type hintove i docstring na crnogorskom.
 > Napiši i pytest testove.
 
 ## Uočeni nedostaci generisanog koda
