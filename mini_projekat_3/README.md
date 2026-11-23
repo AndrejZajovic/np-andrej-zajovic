@@ -93,9 +93,6 @@ Rezultati alata _(dopuniti nakon lokalnog pokretanja)_:
 | Endpointi bez autentikacije | Za produkciju uvesti API ključ ili OAuth2, ključ čuvati u varijabli okruženja | Preporuka, nije implementirano |
 | Zloupotreba i preopterećenje (veliki broj zahtjeva) | Ograničenje broja zahtjeva na API gateway-u ili reverse proxy-ju | Preporuka, nije implementirano |
 
-## Upotreba AI alata
-
-> Dopuniti prije predaje, prema onome što je stvarno urađeno.
 
 - **Alat:** Claude (Anthropic).
 - **Šta je AI radio:** na osnovu zadatka i slajdova iz nedjelja 5 i 6 napisao je nacrt koda, testova, CI workflow-a i ovog README-a.
