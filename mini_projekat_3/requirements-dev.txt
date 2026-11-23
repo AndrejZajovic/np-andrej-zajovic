@@ -1,0 +1,8 @@
+-r requirements.txt
+httpx
+pytest
+pytest-cov
+ruff
+mypy
+bandit
+pip-audit
