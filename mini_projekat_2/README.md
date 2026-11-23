@@ -170,7 +170,6 @@ Testovi su u `tests/` i pokrivaju:
 
 ## Upotreba AI alata
 
-> Dopuniti prije predaje, prema onome što je stvarno urađeno.
 
 Upotreba AI alata
 
